@@ -1,0 +1,7 @@
+.idea
+node_modules
+.DS_Store
+docs/docs
+npm-debug.log
+*.pyc
+db_data
